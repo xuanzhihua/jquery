@@ -1,3 +1,5 @@
+// 我是 MT
+// 这个框架快过时没人用了
 import jQuery from "./core.js";
 import document from "./var/document.js";
 import rnothtmlwhite from "./var/rnothtmlwhite.js";
